@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "352444524821",
+    "project_id": "registertask1-3417d",
+    "storage_bucket": "registertask1-3417d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352444524821:android:3762709b8292c24d69e11c",
+        "android_client_info": {
+          "package_name": "com.example.calculatorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352444524821-aok2bmg7sh9rsnvjul67vofdhof5vrc3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBMPbTgNe8_iiRTN_wFD1mCZkEedboUAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352444524821-aok2bmg7sh9rsnvjul67vofdhof5vrc3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352444524821:android:7d0d510bfe9ab37169e11c",
+        "android_client_info": {
+          "package_name": "com.noa.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352444524821-aok2bmg7sh9rsnvjul67vofdhof5vrc3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBMPbTgNe8_iiRTN_wFD1mCZkEedboUAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352444524821-aok2bmg7sh9rsnvjul67vofdhof5vrc3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
